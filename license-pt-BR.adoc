@@ -45,4 +45,4 @@ O seu pagamento é apenas pelo meu tempo passado e incentivo para eu passar mais
 
 
 == OBRIGADO
-Eu uso muitos softwares de código aberto, graças a todos que trabalham nisso, contribuo com essas grandes pessoas sempre que podem. Veja o arquivo thanks.adoc para listar todos os softwareslivres usados no projeto.
+Eu uso muitos softwares de código aberto, obrigado a todos que trabalham com isso, contribuo com essas grandes pessoas sempre que posso. Veja o arquivo thanks.adoc para listar todos os softwares livres usados no projeto.
