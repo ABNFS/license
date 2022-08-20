@@ -1,2 +1,2 @@
 # license
-ABNFS License
+The License Rules is in LICENSE.adoc (in English)
